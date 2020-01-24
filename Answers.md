@@ -30,6 +30,53 @@ Untracked files:
 
 	Answers.md
 
+Answer 6 -
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   Answers.md
+	new file:   README.md
+
+Answer 7 - 
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   Answers.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+Answer 8 -
+1nlibby@sp-020:~/2400/git-lab$ git log
+commit ebcaabd3d3861056e750d64185a15c334b3def2b (HEAD -> master)
+Author: Nathan Libby <nl889418@ohio.edu>
+Date:   Fri Jan 24 14:23:49 2020 -0500
+
+    Initial commit
+
+Answer 9 - 
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   Answers.md
+
+Answer 10 - 
+
+
+
+
+
+
+
 
 
 
