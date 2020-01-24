@@ -69,7 +69,13 @@ Changes not staged for commit:
 
 	modified:   Answers.md
 
-Answer 10 - 
+Answer 10 - Nothing changed
+
+Answer 11 - Same as Answer 10
+
+Answer 12 - The local copy matches the online copy
+
+Answer 13 - .  ..  .git  .gitignore  README.md
 
 
 
