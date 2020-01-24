@@ -1,3 +1,7 @@
-Nathan Libby
+Name - Nathan Libby
 
-NLibby76
+Github Username - NLibby76
+
+Email - nl889418@ohio.edu
+
+Answers recorded in Answers.md
